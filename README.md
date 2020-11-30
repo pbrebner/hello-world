@@ -6,3 +6,7 @@ New to Github and learning how it works.
 
 ## Subheader
 More Text
+
+## Local Developement
+
+1. Open Index.html in your browser
